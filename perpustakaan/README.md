@@ -1,5 +1,7 @@
 # Sistem Informasi Perpustakaan (Admin)
 
+https://drive.google.com/drive/folders/1yIlF2snneGj-KUdtsVS50IPx4nSqDWkO?usp=sharing
+
 Sistem Informasi Perpustakaan ini merupakan aplikasi berbasis web yang dikembangkan
 menggunakan **PHP Native** dan **MySQL**, bertujuan untuk membantu pengelolaan
 data perpustakaan secara terstruktur dan terintegrasi.
@@ -141,3 +143,4 @@ Aplikasi ini dikembangkan sebagai bagian dari:
 ✔ Terstruktur  
 ✔ Aman secara data  
 ✔ Siap untuk uji kompetensi LSP  
+
